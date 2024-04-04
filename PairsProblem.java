@@ -1,4 +1,3 @@
-
 public class PairsProblem {
     public static void printPairs(int arr[]){
         int count =0;

@@ -1,3 +1,4 @@
+package patternPrinting;
 public class Pattern1 {
     public static void printPattern(int n){
         int stars =1;
